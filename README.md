@@ -12,15 +12,15 @@ public class Projeto {
         public static void main (String[] args) throws java.lang.Exception {
     public Cabecalho(String faculdade, String aluno, String professor, String tema) {
                 this.faculdade = faculdade;
-                this.aluno = aluno;
+                this.aluno = Alex Moreira De Andrade Marcelino;
                 this.professor = Brenno;
-                this.tema = TarefaDeCasaANessecidade;
+                this.tema = Quem foi o Criador do Java?;
         }
             public void exibirCabecalho() {
                 System.out.println("Faculdade: " + "UNIFAN");
-                System.out.println("Aluno: " + "aluno");
+                System.out.println("Aluno: " + "Alex Moreira De Andrade Marcelino");
                 System.out.println("Professor: " + "Brenno");
-                System.out.println("Tema: " + "Tarefa de Casa a Nessecidade");
+                System.out.println("Tema: " + "Quem foi o Criador do Java?");
 
         }
         }
@@ -31,14 +31,14 @@ public class Projeto {
 
             public Questao( String enunciado, char alternativaCorreta ) {
                 this.enuciado = enuciado;
-                this.alternativaCorreta="A";
+                this.alternativaCorreta="B";
        }
             public void exibirQuestao(){
                 System.out.println(TarefadeCasaaNessecidade);
-                System.out.println("A) Sim");
-                System.out.println("B) Nao");
-                System.out.println("C) DEMPENDE DA SITUAO");
-                System.out.println("D) NENHUMA DAS ALTERNATIVAS");
+                System.out.println("A) Bill Gates");
+                System.out.println("B) James Gosling");
+                System.out.println("C) Steve Jobs");
+                System.out.println("D) Elon Musk");
       }
       }
             // Classe principal
