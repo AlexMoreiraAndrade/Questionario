@@ -1,0 +1,111 @@
+// 15 perguntas sobre Java com 5 alternativas cada.
+
+1- Qual é a função do operador instanceof em Java?
+A) Compara duas variáveis de referência
+B) Verifica se um objeto é uma instância de uma determinada *//
+C) Retorna o valor absoluto de um número
+D) Converte um tipo de dado para outro
+E) Incrementa o valor de uma variável
+
+	2- Qual palavra-chave é usada para definir uma classe em Java?
+A) class *//
+B) void
+C) new
+D) extends
+E) public
+
+	3- O que é um wrapper class em Java?
+A) Uma classe que fornece funcionalidades adicionais para classes abstratas
+B) Uma classe que envolve um objeto primitivo e fornece métodos para acessá-lo *//
+C) Uma classe que permite a criação de objetos sem a necessidade de uma classe pai
+D) Uma classe que é usada para criar subclasses em Java
+E) Uma classe que fornece métodos de serialização para objetos
+
+
+	4- O que o método compareTo() da interface Comparable faz em Java?
+A) Compara duas Strings lexicograficamente *//
+B) Compara duas variáveis de referência
+C) Converte um tipo de dado para outro
+D) Retorna o valor absoluto de um número
+E) Incrementa o valor de uma variável
+
+	5- Em Java, qual é a principal diferença entre uma interface e uma classe abstrata?
+A) Uma interface pode conter implementações de métodos, enquanto uma classe abstrata não pode
+B) Uma classe abstrata pode ter construtores, enquanto uma interface não pode
+C) Uma interface pode estender múltiplas classes, enquanto uma classe abstrata não pode
+D) Uma classe abstrata pode ter métodos com implementações, enquanto uma interface não pode *//
+E) Uma interface pode ter campos de instância, enquanto uma classe abstrata não pode
+
+	6- O que o operador && faz em Java?
+A) Operador de adição
+B) Operador de negação
+C) Operador de ou lógico
+D) Operador de e lógico *//
+E) Operador de ou exclusivo
+
+
+	7- Qual é a função do operador new em Java?
+A) Define uma nova variável
+B) Inicia um novo ciclo de repetição
+C) Cria uma nova instância de uma classe *//
+D) Converte um tipo de dado para outro
+E) Incrementa o valor de uma variável
+
+	8- O que é polimorfismo em Java?
+A) A capacidade de uma classe herdar de múltiplas classes
+B) A capacidade de uma classe ser herdada por várias outras classes
+C) A capacidade de uma classe acessar métodos privados de outra classe
+D) A capacidade de uma classe ter vários construtores
+E) A capacidade de uma classe se comportar de maneira diferente dependendo do contexto *//
+
+	9- Qual é o modificador de acesso padrão em Java?
+A) public
+B) private
+C) protected
+D) default *//
+E) final
+
+	10- O que é uma exceção em Java?
+A) Um tipo de dado primitivo
+B) Uma classe que não pode ser instanciada
+C) Um evento que interrompe o fluxo normal de um programa *//
+D) Um tipo de dado utilizado para definir intervalos
+E) Um método que não tem retorno
+
+	11- O que faz o operador de atribuição += em Java?
+A) Subtrai o valor de uma variável de outro
+B) Multiplica o valor de uma variável por outro
+C) Divide o valor de uma variável por outro
+D) Adiciona o valor de uma variável a outra *//
+E) Concatena o valor de uma variável com outro
+
+
+
+	12- O que faz o método substring() na classe String em Java?
+A) Converte a String para minúsculas
+B) Retorna uma subcadeia da String original *//
+C) Concatena duas Strings
+D) Retorna o comprimento da String
+E) Substitui parte da String por outra sequência de caracteres
+
+	13- Qual das opções a seguir é verdadeira sobre o ciclo de vida de um objeto em Java?
+A) Um objeto é destruído automaticamente assim que sai do escopo.
+B) O coletor de lixo (Garbage Collector) é responsável pela destruição de objetos que não são mais acessíveis. *// 
+C) Um objeto deve ser explicitamente destruído pelo programador para liberar memória.
+D) Objetos em Java nunca são destruídos; eles permanecem na memória indefinidamente.
+E) O método finalize() deve ser chamado manualmente para iniciar a coleta de lixo.
+
+	14- Qual das seguintes opções descreve corretamente o conceito de encapsulamento em Java?
+A) Encapsulamento significa que os métodos de uma classe são mantidos privados para que não possam ser acessados fora da classe.
+B) Encapsulamento é o processo de esconder os dados de uma classe, tornando-os acessíveis apenas através de métodos públicos.   *//
+C) Encapsulamento é uma técnica para proteger o código de ser lido por outros programadores.
+D) Encapsulamento é a prática de usar apenas variáveis globais dentro de uma classe.
+E) Encapsulamento é uma forma de garantir que uma classe não possa ser herdada.
+
+	15- Qual das alternativas abaixo não é uma palavra-chave reservada em Java?
+A) synchronized
+B) transient
+C) volatile
+D) instanceof
+E) unsigned *//
+
